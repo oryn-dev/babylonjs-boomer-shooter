@@ -1,0 +1,16 @@
+Furnace Choir: where every file comes from
+
+tex/*, levels/*, kit.json, kit.bin, cast.json, cast.bin
+  Made for this game by its own scripts. No outside pictures, scans or models.
+
+audio/*
+  Synthesised for this game by its own script: all sounds and both music tracks. No samples.
+
+vt323.ttf
+  VT323 by Peter Hull, SIL Open Font License 1.1, from Google Fonts. https://openfontlicense.org
+
+The HUD's pixel letters are drawn in src/game/ui/pixels.ts for this game.
+
+Code
+  Babylon.js (Apache 2.0) is installed by npm.
+
